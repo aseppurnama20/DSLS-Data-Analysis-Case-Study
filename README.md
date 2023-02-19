@@ -1,5 +1,5 @@
 # DSLS-Data-Analysis-Case-Study
-Repository for my Data Analysis Project of Data Consultant Bootcamp
+Repository for my Data Analytics Project of Data Consultant Bootcamp
 
 ## Dashboard
 ![image](https://user-images.githubusercontent.com/92049990/219936307-a5ecb2c2-8d57-44f9-9d24-5831ba3bc242.png)
